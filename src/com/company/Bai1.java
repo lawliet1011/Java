@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-public class Main {
+public class Bai1 {
     public static void main(String[] args) {
         System.out.println("Nhap so nguyen duong :");
         int n;
